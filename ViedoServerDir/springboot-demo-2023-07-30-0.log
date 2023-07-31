@@ -1,0 +1,136 @@
+2023-07-30 20:08:34.687 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 4256 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 20:08:34.690 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 20:08:35.837 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 20:08:35.849 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 20:08:35.928 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 20:08:36.287 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 20:08:37.254 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 20:08:37.259 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 20:08:37.266 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 20:08:37.292 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 20:08:37.531 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.226 seconds (JVM running for 3.588)
+2023-07-30 20:08:40.532 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 20:08:40.540 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 20:08:40.548 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 20:11:08.350 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 19568 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 20:11:08.352 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 20:11:09.544 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 20:11:09.557 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 20:11:09.644 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 20:11:09.992 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 20:11:10.144 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 20:11:10.144 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 20:11:11.269 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 20:11:11.275 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 20:11:11.281 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 20:11:11.320 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 20:11:11.515 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.57 seconds (JVM running for 3.895)
+2023-07-30 20:11:34.723 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 20:11:34.732 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 20:11:34.740 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 20:11:48.689 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 3956 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 20:11:48.692 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 20:11:49.880 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 20:11:49.892 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 20:11:49.979 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 20:11:50.319 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 20:11:50.481 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 20:11:50.481 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 20:11:51.684 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 20:11:51.690 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 20:11:51.697 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 20:11:51.732 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 20:11:52.067 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.766 seconds (JVM running for 4.159)
+2023-07-30 20:12:24.690 [ XNIO-1 task-1 ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-30 20:12:36.142 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 20:12:36.145 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-30 20:12:36.149 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 20:12:36.155 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 20:12:39.310 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 20036 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 20:12:39.312 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 20:12:40.487 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 20:12:40.500 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 20:12:40.583 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 20:12:40.947 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 20:12:41.084 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 20:12:41.085 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 20:12:42.196 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 20:12:42.201 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 20:12:42.207 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 20:12:42.257 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 20:12:42.580 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.653 seconds (JVM running for 3.954)
+2023-07-30 20:32:24.297 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 20:32:24.307 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 20:32:24.314 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 20:32:52.366 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 8968 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 20:32:52.369 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 20:32:53.511 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 20:32:53.523 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 20:32:53.607 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 20:32:53.932 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 20:32:54.071 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 20:32:54.072 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 20:32:55.166 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 20:32:55.173 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 20:32:55.179 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 20:32:55.214 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 20:32:55.513 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.51 seconds (JVM running for 3.79)
+2023-07-30 20:33:25.982 [ XNIO-1 task-1 ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-30 20:59:11.738 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 20:59:11.741 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-30 20:59:11.745 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 20:59:11.752 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 20:59:14.530 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 15112 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 20:59:14.532 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 20:59:15.699 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 20:59:15.711 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 20:59:15.783 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 20:59:16.109 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 20:59:16.249 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 20:59:16.249 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 20:59:17.359 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 20:59:17.365 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 20:59:17.371 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 20:59:17.409 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 20:59:17.718 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.578 seconds (JVM running for 3.926)
+2023-07-30 20:59:27.382 [ XNIO-1 task-1 ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-30 21:00:59.275 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 21:00:59.278 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-30 21:00:59.281 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 21:00:59.287 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 21:01:01.105 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 20352 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 21:01:01.107 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 21:01:02.237 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 21:01:02.249 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 21:01:02.329 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 21:01:02.685 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 21:01:02.830 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 21:01:02.831 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 21:01:03.976 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 21:01:03.982 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 21:01:03.988 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 21:01:04.039 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 21:01:04.400 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 3.645 seconds (JVM running for 3.928)
+2023-07-30 21:01:18.777 [ XNIO-1 task-4 ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-30 21:02:23.308 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 21:02:23.310 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-30 21:02:23.315 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 21:02:23.321 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed
+2023-07-30 21:02:25.101 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 55 ] - Starting VideoserverApplication using Java 11.0.18 on DESKTOP-2OFDGU1 with PID 18232 (D:\IDEA_saves\videoserver\target\classes started by 98318 in D:\IDEA_saves\videoserver)
+2023-07-30 21:02:25.103 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 659 ] - No active profile set, falling back to default profiles: default
+2023-07-30 21:02:26.427 [ main ] - [ WARN  ] [ io.undertow.websockets.jsr : 68 ] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-07-30 21:02:26.438 [ main ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring embedded WebApplicationContext
+2023-07-30 21:02:26.766 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 55 ] - Init DruidDataSource
+2023-07-30 21:02:27.156 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 985 ] - {dataSource-1} inited
+2023-07-30 21:02:27.294 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2023-07-30 21:02:27.294 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2023-07-30 21:02:28.398 [ main ] - [ INFO  ] [ io.undertow : 120 ] - starting server: Undertow - 2.2.10.Final
+2023-07-30 21:02:28.404 [ main ] - [ INFO  ] [ org.xnio : 95 ] - XNIO version 3.8.4.Final
+2023-07-30 21:02:28.410 [ main ] - [ INFO  ] [ org.xnio.nio : 58 ] - XNIO NIO Implementation Version 3.8.4.Final
+2023-07-30 21:02:28.454 [ main ] - [ INFO  ] [ org.jboss.threads : 52 ] - JBoss Threads version 3.1.0.Final
+2023-07-30 21:02:28.767 [ main ] - [ INFO  ] [ com.soul.videoserver.VideoserverApplication : 61 ] - Started VideoserverApplication in 4.017 seconds (JVM running for 4.288)
+2023-07-30 21:02:35.394 [ XNIO-1 task-1 ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-30 23:22:53.925 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow : 259 ] - stopping server: Undertow - 2.2.10.Final
+2023-07-30 23:22:53.950 [ SpringApplicationShutdownHook ] - [ INFO  ] [ io.undertow.servlet : 382 ] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-30 23:22:53.956 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2105 ] - {dataSource-1} closing ...
+2023-07-30 23:22:53.959 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2178 ] - {dataSource-1} closed

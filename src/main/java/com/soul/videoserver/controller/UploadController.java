@@ -1,4 +1,4 @@
-package com.soul.videoserver.web.controller;
+package com.soul.videoserver.controller;
 
 import java.io.IOException;
 import java.nio.file.Files;
