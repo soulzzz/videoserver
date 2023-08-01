@@ -1,6 +1,14 @@
 package com.soul.videoserver.ffmpeg;
 
 public class TranscodeConfig {
+
+	public TranscodeConfig(String poster, String tsSeconds, String cutStart, String cutEnd) {
+		this.poster = poster;
+		this.tsSeconds = tsSeconds;
+		this.cutStart = cutStart;
+		this.cutEnd = cutEnd;
+	}
+
 	private String poster;				// 截取封面的时间			HH:mm:ss.[SSS]
 	private String tsSeconds;			// ts分片大小，单位是秒
 	private String cutStart;			// 视频裁剪，开始时间		HH:mm:ss.[SSS]

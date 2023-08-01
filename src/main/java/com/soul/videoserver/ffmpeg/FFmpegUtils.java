@@ -96,7 +96,7 @@ public class FFmpegUtils {
 	 * @throws IOException 
 	 * @throws InterruptedException 
 	 */
-	public static void transcodeToM3u8(String source, String destFolder, TranscodeConfig config) throws IOException, InterruptedException {
+	public static void transcodeToM3u8(String source, String destFolder,String avatarpath, TranscodeConfig config) throws IOException, InterruptedException {
 		
 		// 判断源视频是否存在
 		if (!Files.exists(Paths.get(source))) {
@@ -165,7 +165,7 @@ public class FFmpegUtils {
 		}
 		
 		// 切出封面
-		if (!screenShots(source, String.join(File.separator, destFolder, "poster.jpg"), config.getPoster())) {
+		if (!screenShots(source, avatarpath, config.getPoster())) {
 			throw new RuntimeException("封面截取异常");
 		}
 		

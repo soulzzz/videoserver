@@ -73,7 +73,7 @@ public class UploadController {
 			// 执行转码操作
 			LOGGER.info("开始转码");
 			try {
-				FFmpegUtils.transcodeToM3u8(tempFile.toString(), targetFolder.toString(), transcodeConfig);
+				FFmpegUtils.transcodeToM3u8(tempFile.toString(), targetFolder.toString(),targetFolder.toString()+"\\poster.jpg", transcodeConfig);
 			} catch (Exception e) {
 				LOGGER.error("转码异常：{}", e.getMessage());
 				Map<String, Object> result = new HashMap<>();
